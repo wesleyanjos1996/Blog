@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bootstrap": "^4.6.1",
-    "vue": "2.6"
+    "vue": "2.6",
+    "vue2-filters": "^0.14.0"
   }
 }
